@@ -1,6 +1,6 @@
 # GeoPandas Basics
 
-You can read the instructions about this workflow on [Linkedin](https://www.linkedin.com/posts/istanbul-data-science-academy_istdsa-b%C3%BClten-13-geopandas-activity-7051846117117857792-CLwk?utm_source=share&utm_medium=member_desktop).
+You can read the instructions about this workflow on [LinkedIn](https://www.linkedin.com/posts/istanbul-data-science-academy_istdsa-b%C3%BClten-13-geopandas-activity-7051846117117857792-CLwk?utm_source=share&utm_medium=member_desktop).
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
